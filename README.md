@@ -17,7 +17,7 @@ Script educativo en Python que realiza un escaneo básico de puertos para compro
 3. Introduce la ip o el hostname cuando el script lo solicite
 
 **Importante**:
-En el archivo index.html existe un zip descargable con los datos del proyecto para que se pueda chequear que el proyecto funciona
+En el archivo **index.html** existe un zip descargable con los datos del proyecto para que se pueda chequear que el proyecto funciona
 
 
    
